@@ -1,10 +1,10 @@
 [
   {
-    "package": "emuR",
+    "package": "wrassp",
     "oncran": true
   },
   {
-    "package": "wrassp",
+    "package": "emuR",
     "oncran": true
   }
 ]
